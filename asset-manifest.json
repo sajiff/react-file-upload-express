@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-file-upload-express/static/css/main.31d6cfe0.css",
+    "main.js": "/react-file-upload-express/static/js/main.e6669223.js",
+    "index.html": "/react-file-upload-express/index.html",
+    "main.e6669223.js.map": "/react-file-upload-express/static/js/main.e6669223.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e6669223.js"
+  ]
+}
